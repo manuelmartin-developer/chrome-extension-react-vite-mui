@@ -1,7 +1,7 @@
 import { Button } from "@mui/material";
 
-const Popup = () => {
+const Test = () => {
   return <Button variant="contained">Hello World</Button>;
 };
 
-export default Popup;
+export default Test;

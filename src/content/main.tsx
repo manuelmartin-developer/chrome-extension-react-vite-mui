@@ -1,4 +1,4 @@
-import Popup from "../Popup";
+import { App } from "../components/App";
 import { render } from "../utils/render";
 
-render(<Popup />);
+render(<App />);
